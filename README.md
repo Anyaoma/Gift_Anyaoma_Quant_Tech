@@ -8,15 +8,26 @@ I am a passionate Data scientist and algorithmic trader with over two years of e
 
 What I Offer:
 
+
 ✔ Strategy Development – Designing and coding robust trading strategies using Python, with a focus on mathematical modeling, stochastic processes, and market calibration.
+
+
 ✔ Backtesting & Result Analysis – Conducting rigorous backtesting, and statistical evaluations to validate trading models and ensure reliability.
+
+
 ✔ Trading Automation – Building fully automated trading systems by integrating APIs (e.g., Oanda) and deploying scalable solutions.
+
+
 ✔ Market Research & Quantitative Analysis – Applying advanced techniques such as volatility modeling, mean reversion, and momentum studies to uncover actionable insights.
+
+
 ✔ App Development for Backtest Results – Creating intuitive and interactive applications using Heroku and Streamlit to deliver backtest results and strategy performance metrics.
 
 --------
 
 Technical Skills
+
+
 • Programming: Python, R, SQL, PowerBI
 • Platforms: Heroku, Streamlit, Visual Studio Code
 • Tools: Machine Learning, Stochastic Differential Equations (SDEs), Mathematical Modeling, API Integration
