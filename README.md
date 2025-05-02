@@ -2,14 +2,14 @@
 
 # 👋 Hi, I'm Gift Ndidi Anyaoma
 
-I am a passionate quantitative finance and algorithmic trader with over two years of experience, currently pursuing an MSc in Financial Engineering. I specialize in designing, developing, and optimizing systematic trading strategies across asset classes, leveraging mathematical modeling, stochastic differential equations (SDEs), and machine learning. My expertise spans strategy development, rigorous backtesting, trading automation, and quantitative market research. Skilled in Python, R, SQL, and C++, I also build interactive applications (Heroku, Streamlit) to visualize backtest results and performance metrics. I combine strong technical proficiency with a deep understanding of market calibration, portfolio optimization, and risk management to deliver robust, data-driven trading solutions.
+I am a passionate quantitative finance and algorithmic trader with over two years of experience, currently pursuing an MSc in Financial Engineering. I specialize in designing, developing, and optimizing systematic trading strategies across asset classes, leveraging mathematical modeling, stochastic differential equations (SDEs), and machine learning. My expertise spans strategy development, rigorous backtesting, trading automation, and quantitative market research. Skilled in Python, SQL,Power BI, and Excel. I also build interactive applications (Heroku, Streamlit) to visualize backtest results and performance metrics. I combine strong technical proficiency with a deep understanding of market calibration, portfolio optimization, and risk management to deliver robust, data-driven trading solutions.
 
 
 
 - 🔭 I’m currently working on: [Alpaca API/strategy develpment and deployment]
 - 🌱 Learning: [Feature selection in Data Science]
 - 💬 Ask me about: [Data Science, Backtesting, Trade Automation, Machine Learning]
-- 📫 How to reach me: [anyaomagiftndidi@gmail.com/[https://www.linkedin.com/in/gift-anyaoma-6a44a9170/]
+- 📫 How to reach me: [anyaomagiftndidi@gmail.com]
 - 🛠️ Tools: [e.g., Python, R, SQL, TensorFlow, Keras]
 
 ---
@@ -18,9 +18,9 @@ I am a passionate quantitative finance and algorithmic trader with over two year
 
 | Project | Description | Link |
 |---------|-------------|-------|
-| **Project 1** | Short one-liner of what it does. | [Repo Link](https://github.com/yourusername/project1) |
-| **Project 2** | One-liner description. | [Repo Link](https://github.com/yourusername/project2) |
-| **Project 3** | One-liner description. | [Repo Link](https://github.com/yourusername/project3) |
+| **Project 1** | A buy/sell/hold stock prediction | [Repo Link](https://github.com/Anyaoma/Buy_Sell_Hold_ML_Prediction) |
+| **Project 2** | Bankruptcy prediction | [Repo Link](https://github.com/Anyaoma/Corporate_Banking_Prediction) |
+| **Project 3** | Alpaca Market Data Streamer | [Repo Link](To be seen...) |
 
 ---
 
@@ -28,9 +28,8 @@ I am a passionate quantitative finance and algorithmic trader with over two year
 
 Here’s a summary of my public projects:
 
-- [**Project Name 1**](https://github.com/yourusername/project1): Short summary.
-- [**Project Name 2**](https://github.com/yourusername/project2): Short summary.
-- [**Project Name 3**](https://github.com/yourusername/project3): Short summary.
+- [**BackTest Analysis Using StreamLit**](https://github.com/Anyaoma/Backtest_Analysis_Using_StreamLit_App)
+- [**Market Regime Prediction**](https://github.com/Anyaoma/Market_Regime_Prediction_Using_Machine_Learning)
 
 ---
 
