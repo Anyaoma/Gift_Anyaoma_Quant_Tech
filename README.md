@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gift Ndidi Anyaoma
 
-I am a passionate Data scientist and algorithmic trader with over two years of experience. I specialize in designing, developing, and optimizing systematic trading strategies across asset classes, leveraging mathematical modeling, stochastic differential equations (SDEs), and machine learning. I combine strong technical proficiency with a deep understanding of market calibration, portfolio optimization, and risk management to deliver robust, data-driven trading solutions.
+I am a passionate Data scientist and algorithmic trader with over two years of experience. I specialize in designing, developing, and optimizing systematic trading strategies across asset classes, leveraging data analysis, mathematical modeling, stochastic differential equations (SDEs), and machine learning. I combine strong technical proficiency with a deep understanding of market calibration, portfolio optimization, and risk management to deliver robust, data-driven trading solutions.
 
 --------
 
