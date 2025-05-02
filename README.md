@@ -29,9 +29,16 @@ Technical Skills
 
 
 • Programming: Python, R, SQL, PowerBI
+
+
 • Platforms: Heroku, Streamlit, Visual Studio Code
+
+
 • Tools: Machine Learning, Stochastic Differential Equations (SDEs), Mathematical Modeling, API Integration
+
+
 • Knowledge: Market Calibration, Portfolio Optimization, Risk Management
+
 
 - 📫 How to reach me: [anyaomagiftndidi@gmail.com]
 
