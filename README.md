@@ -50,7 +50,8 @@ I am a passionate Data scientist and algorithmic trader with over two years of e
 |---------|-------------|-------|
 | **Project 1** | A buy/sell/hold stock prediction | [Repo Link](https://github.com/Anyaoma/Buy_Sell_Hold_ML_Prediction) |
 | **Project 2** | Bankruptcy prediction | [Repo Link](https://github.com/Anyaoma/Corporate_Banking_Prediction) |
-| **Project 3** | Alpaca Market Data Streamer | [Repo Link](To be seen...) 
+| **Project 3** | Backtest Analysis Using Streamlit | [Repo Link](https://github.com/Anyaoma/Backtest_Analysis_Using_StreamLit_App) |
+| **Project 4** | Market Regime Predictor | [Repo Link](https://github.com/Anyaoma/Market_Regime_Prediction_Using_Machine_Learning) | 
 
 
 ---------
