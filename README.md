@@ -6,7 +6,7 @@ I am a passionate Data scientist and algorithmic trader with over two years of e
 
 --------
 
-What I Offer:
+**What I Offer:**
 
 
 ✔ Strategy Development – Designing and coding robust trading strategies using Python, with a focus on mathematical modeling, stochastic processes, and market calibration.
@@ -25,7 +25,7 @@ What I Offer:
 
 --------
 
-Technical Skills
+**Technical Skills**
 
 
 • Programming: Python, R, SQL, PowerBI
